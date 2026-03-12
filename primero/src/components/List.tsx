@@ -1,5 +1,5 @@
 function App() {
-  let items = ["Adrian", "Enrique", "Jose", "Joaquin", "Miguel"];
+  let items = ["Juan", "Pedro", "Pepe", "Pablo", "Miguel"];
   return (
     <>
       <ul>

@@ -3,7 +3,7 @@ function HolaReact() {
     return (
         <>
             <style>{`
-                h1 { color: blue; }
+                h1 { color: red; }
             `}</style>
             <h1>{hola}</h1>
         </>
